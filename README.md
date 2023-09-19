@@ -1,7 +1,7 @@
 Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Streamlit and Plotly
 
-Name:M K KOWSHIK BALAJI
-BATCH:IITMDSA -DTM4A
+Name:M K KOWSHIK BALAJI/
+BATCH:IITMDSA -DTM4A/
 MAILID:balajikowshik@gmail.com
 
 Overview:
