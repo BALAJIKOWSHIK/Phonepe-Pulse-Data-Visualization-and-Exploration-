@@ -2,7 +2,7 @@ Phonepe Pulse Data Visualization and Exploration:A User-Friendly Tool Using Stre
 
 Name:M K KOWSHIK BALAJI/
 BATCH:IITMDSA -DTM4A/
-MAILID:balajikowshik@gmail.com
+MAILID:balajikowshik@gmail.com/
 DOMAIN:DATA SCI
 
 Overview:
